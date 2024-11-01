@@ -16,7 +16,7 @@ const support = {
   children: [
     {
       id: 'Ayuda',
-      title: 'Ayuda',
+      title: 'Ayudas',
       type: 'item',
       url: '/ayuda',
       icon: icons.ChromeOutlined
